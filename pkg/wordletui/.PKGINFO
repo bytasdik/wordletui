@@ -6,7 +6,7 @@ xdata = pkgtype=pkg
 pkgver = 1.0-1
 pkgdesc = Terminal Wordle clone with ANSI colors
 url = 
-builddate = 1773170841
+builddate = 1773177717
 packager = Unknown Packager
 size = 31296
 arch = x86_64
